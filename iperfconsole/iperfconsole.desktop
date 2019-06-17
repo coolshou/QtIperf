@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=iperfconsole
+Comment=QtIperf GUI console
+Icon=iperfconsole.png
+Exec=iperfconsole
+Terminal=false
+Categories=System;Networking;
+Name[zh_TW]=QtIperf console
+Comment[zh_TW]=QtIperf GUI console

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/run.png</file>
+        <file>images/config.png</file>
+        <file>images/down.png</file>
+        <file>images/left.png</file>
+        <file>images/right.png</file>
+        <file>images/up.png</file>
+        <file>images/copy.png</file>
+        <file>images/del.png</file>
+        <file>images/paste.png</file>
+        <file>images/new.png</file>
+        <file>images/save.png</file>
+        <file>images/open.png</file>
+        <file>images/exit.png</file>
+        <file>images/about.png</file>
+        <file>images/stop.png</file>
+        <file>images/swap.png</file>
+        <file>images/iperfconsole.png</file>
+        <file>images/cut.png</file>
+        <file>images/editadd.png</file>
+        <file>images/edit.png</file>
+    </qresource>
+</RCC>
