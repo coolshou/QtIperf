@@ -11,14 +11,21 @@
 ### #Linux
 
 ##build static:
-    `./configure --enable-static --disable-shared LDFLAGS="--static"`
+
+​    `./configure --enable-static --disable-shared LDFLAGS="--static"`
 ##build x86 on x86_64
-    `./configure --host=i686-linux-gnu --enable-static --disable-shared LDFLAGS="--static"`
+
+​    `./configure --host=i686-linux-gnu --enable-static --disable-shared LDFLAGS="--static"`
 
 ### #Windows
 
 ##cygwin
+
+`TODO`
+
 ##MSVC
+
+`TODO`
 
 ## iperf help
 
