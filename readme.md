@@ -1,3 +1,25 @@
+# QtIperf
+
+a Qt base GUI tool for iperf3 arm to works as chariot and endpoint
+
+## iperfconsole
+
+arm to work like chariot, a Qt GUI to show setting and iperf3 runtime result
+
+## iperfd
+
+arm to work like endpoint, a service daemon to accept command from iperfconsole and lunch iperf3 server/client
+
+
+
+------
+
+
+
+#### TODO:
+
+<pre>
+
 qtservice:
 
 
@@ -9,3 +31,5 @@ qtservice:
 -t: terminal
 -u: uninstall
 -e: exec as normal app (debug)
+
+</pre>
