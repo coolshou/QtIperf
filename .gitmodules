@@ -1,0 +1,9 @@
+[submodule "libmaia"]
+	path = libmaia
+	url = https://github.com/wiedi/libmaia.git
+[submodule "jcon-cpp"]
+	path = jcon-cpp
+	url = https://github.com/JanLochi/jcon-cpp.git
+[submodule "iperf"]
+	path = iperf
+	url = https://github.com/esnet/iperf.git
