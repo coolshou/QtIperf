@@ -7,10 +7,10 @@ QT += network core xml
 CONFIG += c++11 console
 CONFIG -= app_bundle
 
-include(iperf.pri)
+include(../iperf.pri)
 
 #include(libmaia/maia.pri)
-include(../jcon-cpp/jcon-cpp.pri)
+include(../jcon-cpp.pri)
 
 include(../qtservice/src/qtservice.pri)
 

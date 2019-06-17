@@ -2,13 +2,17 @@
 
 a Qt base GUI tool for iperf3 arm to works as chariot and endpoint
 
-## iperfconsole
+## iperfconsole:
 
 arm to work like chariot, a Qt GUI to show setting and iperf3 runtime result
 
-## iperfd
+## iperfd:
 
 arm to work like endpoint, a service daemon to accept command from iperfconsole and lunch iperf3 server/client
+
+
+
+## Build:
 
 
 
@@ -17,6 +21,8 @@ arm to work like endpoint, a service daemon to accept command from iperfconsole 
 
 
 #### TODO:
+
+​	direct build iperf3 in iperfd not lunch by QProcess
 
 <pre>
 
