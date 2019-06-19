@@ -41,4 +41,8 @@ LIBS +=   -Wl,-Bstati -liperf -lssl -Wl,-Bdynamic -lcrypto
 
 unix {
 LIBS += -lsctp
+# Build iperf
+!exists( $$PWD/iperf/src/iperf_config.h ) {
+    system( cd $$PWD/iperf && ./configure --enable-static --disable-shared LDFLAGS="--static" && make)
+}
 }
