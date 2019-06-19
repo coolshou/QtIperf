@@ -6,4 +6,4 @@
 	url = https://github.com/JanLochi/jcon-cpp.git
 [submodule "iperf"]
 	path = iperf
-	url = https://github.com/esnet/iperf.git
+	url = https://github.com/coolshou/iperf.git
