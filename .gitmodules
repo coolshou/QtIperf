@@ -3,7 +3,7 @@
 	url = https://github.com/wiedi/libmaia.git
 [submodule "jcon-cpp"]
 	path = jcon-cpp
-	url = https://github.com/JanLochi/jcon-cpp.git
+	url = https://github.com/joncol/jcon-cpp.git
 [submodule "iperf"]
 	path = iperf
 	url = https://github.com/coolshou/iperf.git
